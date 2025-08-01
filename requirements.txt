@@ -1,0 +1,6 @@
+# Python dependencies for ECommercePortal16_30Julyv2
+pytest
+pytest-bdd
+playwright
+openpyxl
+pyyaml
