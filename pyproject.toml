@@ -1,0 +1,3 @@
+[tool.pytest.ini_options]
+addopts = "-v --headed --browser=chromium"
+markers = ["auth", "inventory", "cart", "demo", "smoke"]
